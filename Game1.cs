@@ -1,12 +1,10 @@
 using Microsoft.Xna.Framework;
 using Nez;
 
-namespace NewProject
+namespace MonoGameNez
 {
     public class Game1 : Core
     {
-        public Game1() {}
-
         protected override void Initialize()
         {
             base.Initialize();
